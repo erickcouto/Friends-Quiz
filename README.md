@@ -9,16 +9,11 @@ A Quiz app example with sound integration and timer
 * Reduxjs/toolkit
 * React Native Sound
 
-![Preview](https://i.postimg.cc/1zRcVX3N/classified2.jpg)
-![Preview](https://i.postimg.cc/3wLjXhkf/classified.jpg)
+![Preview](https://i.postimg.cc/3WSHXRdB/Simulator-Screen-Shot-i-Phone-13-2022-08-27-at-00-54-42.png)
+![Preview](https://i.postimg.cc/cKSqxtbs/Simulator-Screen-Shot-i-Phone-13-2022-08-27-at-00-54-45.png)
 
-[url=https://postimg.cc/3WSHXRdB][img]https://i.postimg.cc/3WSHXRdB/Simulator-Screen-Shot-i-Phone-13-2022-08-27-at-00-54-42.png[/img][/url]
-
-[url=https://postimg.cc/cKSqxtbs][img]https://i.postimg.cc/cKSqxtbs/Simulator-Screen-Shot-i-Phone-13-2022-08-27-at-00-54-45.png[/img][/url]
-
-[url=https://postimg.cc/njF67bxg][img]https://i.postimg.cc/njF67bxg/Simulator-Screen-Shot-i-Phone-13-2022-08-27-at-00-54-56.png[/img][/url]
-
-[url=https://postimg.cc/GBJWH3Wv][img]https://i.postimg.cc/GBJWH3Wv/Simulator-Screen-Shot-i-Phone-13-2022-08-27-at-00-55-36.png[/img][/url]
+![Preview](https://i.postimg.cc/njF67bxg/Simulator-Screen-Shot-i-Phone-13-2022-08-27-at-00-54-56.png)
+![Preview](https://i.postimg.cc/GBJWH3Wv/Simulator-Screen-Shot-i-Phone-13-2022-08-27-at-00-55-36.png)
 
 
 ## Usage
@@ -31,6 +26,12 @@ Then run the project using react-native CLI
 
 ```
 yarn android
+```
+
+To run iOS you need to run pod install inside ios folder
+
+```
+pod install
 ```
 
 ```
