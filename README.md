@@ -9,7 +9,10 @@ A Quiz app example with sound integration and timer
 * Reduxjs/toolkit
 * React Native Sound
 
-![](https://s4.gifyu.com/images/ezgif.com-gif-makeree93e0dbc39a5440.gif)
+![FriendsQuiz](https://i.postimg.cc/7YDYyJ4p/Simulator-Screen-Shot-i-Phone-13-2022-08-27-at-00-54-42.png)
+![FriendsQuiz](https://i.postimg.cc/DzW7cqQb/Simulator-Screen-Shot-i-Phone-13-2022-08-27-at-00-54-45.png)
+![FriendsQuiz](https://i.postimg.cc/zBK5s8cz/Simulator-Screen-Shot-i-Phone-13-2022-08-27-at-00-54-56.png)
+![FriendsQuiz](https://i.postimg.cc/Zq14sCjs/Simulator-Screen-Shot-i-Phone-13-2022-08-27-at-00-55-36.png)
 
 
 
