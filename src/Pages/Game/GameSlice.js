@@ -7,8 +7,8 @@ const initialState = {
   actualQuestion: {},
   activeQuestion: 0,
   answeredQuestions: [],
-  showResult: false,
   finalScore: 0,
+  maxQuestions: 10,
 };
 
 export const GameSlice = createSlice({
@@ -41,7 +41,7 @@ export const GameSlice = createSlice({
     builder.addCase(getQuestions.fulfilled, (state, action) => {
       return {
         ...state,
-        questions: shuffle(slice(action.payload, 0, 10)),
+        questions: shuffle(slice(action.payload, 0, state.maxQuestions)),
         actualQuestion: state.questions[0],
         loading: false,
       };
