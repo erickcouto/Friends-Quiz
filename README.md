@@ -1,4 +1,4 @@
-# Friends Quiz - React Native Quiz app Example
+# Friends Quiz - Drupal + React Native Quiz app Example
 
 A Quiz app example with sound integration and timer
 
